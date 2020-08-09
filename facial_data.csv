@@ -1,0 +1,33 @@
+,,,,
+,,,,
+Measurements,,Ex 1,Ex 2,Ex 3
+Maximum Face height,a,248,55,70
+Maximum Face width ,b,259,54,68
+Face width with eye line,c,254,55,72
+Face width with nasel line,d,250,53,78
+Face width with mouth line,e,245,50,68
+Inter distance of Irises at Eye line,f,114,23,30
+Vertical distance- Eye line to mouth line,g,139,27,36
+Nose width,h,72,17,26
+mouth width,i,103,25,33
+Average Eye width,j,58,12,20
+Average Ear width,k,45,14,14
+Average Ear height,l,90,24,29
+Height of upper face portion from eye line,m,142,35,39
+Height of lower face portion from the eye line,n,209,47,56
+,,,,
+,,,,
+Parameters,as % of numerator,Ex 1,Ex 2,Ex 3
+Face ratio 1,a/b ,0.957528958,1.018518519,1.029411765
+Face ratio 2,g/f ,1.219298246,1.173913043,1.2
+Eye width Ratio,c/f,2.228070175,2.391304348,2.4
+Nose width Ratio 1,b/h,3.597222222,3.176470588,2.615384615
+Nose width Ratio 2,d/h,3.472222222,3.117647059,3
+Mouth width Ratio 1,b/i,2.514563107,2.16,2.060606061
+Mouth width Ratio 2,e/i,2.378640777,2,2.060606061
+Ear width Ratio,b/k,5.755555556,3.857142857,4.857142857
+Ear height Ratio,a/l,2.755555556,2.291666667,2.413793103
+Face height (Bisector) Ratio,m/n,0.679425837,0.744680851,0.696428571
+Profile of horizontal Lines,,,,
+,,,,
+,,,,
